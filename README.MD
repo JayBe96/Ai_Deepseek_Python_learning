@@ -28,3 +28,7 @@ Make sure you have Python 3.13 installed. You can download it from the official 
 Visit the LM Studio official website and download the latest version [here](https://lmstudio.ai/download).
 
 ## Setting Up LM Studio
+
+
+## install 
+pip install requests
