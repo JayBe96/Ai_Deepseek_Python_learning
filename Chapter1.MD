@@ -22,5 +22,14 @@ Payload = {
   }
 
 Fetch response 
+response = requests.post(DEEPSEEK_API_URL,json=payload)
 
 Parse the response 
+
+generated_text = response_json['choices'][0]['message']['content'] 
+This will only give the Response Text without the Metadata like id object model ....
+
+But better use get
+.get() will return None without raising an exception, allowing your program to handle the situation rather than crashing.
+
+

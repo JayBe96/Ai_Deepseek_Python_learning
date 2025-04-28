@@ -32,3 +32,7 @@ Visit the LM Studio official website and download the latest version [here](http
 
 ## install 
 pip install requests
+
+## Run
+
+To run the first Version type python intro into the Console. It then should ask you for your prompt to generate a answer using a API call to the LLM in from LM Studio. 
