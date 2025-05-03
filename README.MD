@@ -35,4 +35,16 @@ pip install requests
 
 ## Run
 
-To run the first Version type python intro into the Console. It then should ask you for your prompt to generate a answer using a API call to the LLM in from LM Studio. 
+In this Retro there are some small things i wanted to try out. The diffrent Projects and how to run them. For all these LM Studio must run and the server needs to be actrive.
+
+### intro
+ Just lets you a send your Prompt to the LM Studio Local Deepseek API. 
+```
+python intro.py
+```
+
+### Medical advicer
+ Intakes a csv file and gives advice on Health based on it
+```
+python health-data.py
+```

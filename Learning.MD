@@ -2,7 +2,7 @@
 
 For learning and doing my first steps with AI Agents
 
-## Lesson 1
+## intro
 
 import Request and get your Server Address from the top right of the LM Studio.
 per default.
@@ -32,4 +32,7 @@ This will only give the Response Text without the Metadata like id object model 
 But better use get
 .get() will return None without raising an exception, allowing your program to handle the situation rather than crashing.
 
+
+## healt-data
+How to deal with Files in Python. 
 

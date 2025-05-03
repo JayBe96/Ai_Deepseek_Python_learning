@@ -1,0 +1,11 @@
+PatientID,Test Date,Test Taken,Parameter,Value
+001,2023-01-15,Blood Pressure,Systolic (mmHg),120
+001,2023-01-15,Blood Pressure,Diastolic (mmHg),80
+001,2023-01-15,Blood Sugar (Fasting),Glucose (mg/dL),95
+001,2023-01-15,Blood Sugar (Post-Meal),Glucose (mg/dL),140
+001,2023-01-15,Cholesterol,LDL (mg/dL),110
+001,2023-01-15,Cholesterol,HDL (mg/dL),50
+001,2023-01-16,Urine Test,pH Level,6.5
+001,2023-01-16,Urine Test,Protein (mg/dL),Normal
+001,2023-01-17,Kidney Function,Creatinine (mg/dL),1.1
+001,2023-01-17,Liver Function,ALT (U/L),25
