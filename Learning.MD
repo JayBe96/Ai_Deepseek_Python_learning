@@ -35,4 +35,4 @@ But better use get
 
 ## healt-data
 How to deal with Files in Python. 
-
+For getting the csv i experimentet with some ways to generate the file. Eventhough unessesary i wanted to try out some stuff. Part of this can be still seen in the csv file where there is a patient ID which is kinda useless for the purpose. But having the perfekt endresult was never the goal i just want to try stuff out and experiment. 
