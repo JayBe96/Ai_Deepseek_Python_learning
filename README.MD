@@ -54,3 +54,9 @@ similar to the intro but here the context of the previous Chats are given. So yo
 ```
 python chatbot.py
 ```
+
+### Project
+before running run
+```
+pip install Markdown2docx
+```
