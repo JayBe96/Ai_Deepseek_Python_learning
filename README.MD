@@ -56,7 +56,8 @@ python chatbot.py
 ```
 
 ### Project
-before running run
+before running run install Markdown2docx. The Project will Create a markdown file and a wordfile which will indicate on how to do the Project.
 ```
 pip install Markdown2docx
+python .\project-charter.py
 ```

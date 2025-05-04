@@ -61,9 +61,9 @@ if project_charter_text:
         file.write(project_charter_text)
         print("Project charter has been saved to project_charter.md")
         #convert markdown file into a warod document
-        word_file = markdown2docx("project_charter.md")
+        word_file = Markdown2docx("project_charter")
         word_file.eat_soup()
-        word_file.save("project_charter.docx")
+        word_file.save()
         print("Project charter has been saved to project_charter.docx")
 else:
     print("Failed to generate project charter.")
